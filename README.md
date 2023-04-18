@@ -20,9 +20,8 @@ npx create-react-native-app -t with-router
 
 <h2>Screenshots</h2>
 
-<img src="..\assets\images\home_page.jpg">
-<img src="[/screenshots/screenshot2.png](https://drive.google.com/file/d/1NbJcOKna_DTrL51IeVGFX1twx9OpJo0w/view?usp=sharing)">
-<img src="[/screenshots/screenshot3.png](https://drive.google.com/file/d/1NW_4BCU0ja3H6lKVrZmFcrppwDuAM_tN/view?usp=sharing)">
+<img src="![home_page](https://user-images.githubusercontent.com/93334700/232687283-88169b4b-01f6-4a4a-9ddf-2e031ec188b6.jpg)" >
+
 
 <h2>Installation</h2>
 
