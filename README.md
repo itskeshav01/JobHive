@@ -19,8 +19,9 @@ npx create-react-native-app -t with-router
 <p>JobHive is a mobile app that helps software engineers search for job opportunities posted on different platforms, all in one place. The app is built using React Native and uses APIs from RapidAPIs to fetch job postings. The styling is done using CSS.</p>
 
 <h2>Screenshots</h2>
-
+<div width="50">
 ![home_page](https://user-images.githubusercontent.com/93334700/232688494-062f9dea-fcec-4917-8ee9-0a48c7a0c951.jpg)
+  </div>
 ![details_page](https://user-images.githubusercontent.com/93334700/232688907-6ce83c20-b220-4ad4-adce-1d22e53925e2.jpg)
 ![search_page](https://user-images.githubusercontent.com/93334700/232688935-4feb33cb-46f2-4813-aefe-3044e78eeeeb.jpg)
 
