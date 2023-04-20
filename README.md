@@ -13,16 +13,25 @@ npx create-react-native-app -t with-router
 - [Expo Router: Docs](https://expo.github.io/router)
 - [Expo Router: Repo](https://github.com/expo/router)
 - [Request for Comments](https://github.com/expo/router/discussions/1)
-
+<html>
+<body>
 <h1>JobHive</h1>
 
 <p>JobHive is a mobile app that helps software engineers search for job opportunities posted on different platforms, all in one place. The app is built using React Native and uses APIs from RapidAPIs to fetch job postings. The styling is done using CSS.</p>
 
-<!-- <h2>Screenshots</h2>
-![home_page](https://user-images.githubusercontent.com/93334700/232688494-062f9dea-fcec-4917-8ee9-0a48c7a0c951.jpg) 
-![details_page](https://user-images.githubusercontent.com/93334700/232688907-6ce83c20-b220-4ad4-adce-1d22e53925e2.jpg) 
-![search_page](https://user-images.githubusercontent.com/93334700/232688935-4feb33cb-46f2-4813-aefe-3044e78eeeeb.jpg)
- -->
+<h2>Screenshots</h2>
+<div class="row">
+  <div class="column">
+    <img src="assets\images\home_page.jpg" alt="Snow" style="width:25%">
+  </div>
+  <div class="column">
+    <img src="assets\images\details_page.jpg" alt="Forest" style="width:25%">
+  </div>
+  <div class="column">
+    <img src="assets\images\search_page.jpg" alt="Mountains" style="width:25%">
+  </div>
+</div>
+
 
 
 <h2>Installation</h2>
@@ -72,4 +81,5 @@ npx create-react-native-app -t with-router
 <h2>Troubleshooting</h2>
 
 <p>If you encounter any problems while installing or running the app, please check out the <a href="https://docs.expo.io/">Expo documentation</a>, or feel free to contact me directly.</p>
-
+</body>
+</html>
